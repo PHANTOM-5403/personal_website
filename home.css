@@ -1,5 +1,5 @@
 body {
-    background-color: #f0f8ff; 
+    background-color: #f0f0f0;; 
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 20px;
@@ -35,8 +35,7 @@ h2 {
 }
 
 p, ul {
-    margin: 20px 40px;
-    padding: 10px;
+    
     color: #444; 
     font-size: 1.1em; 
 }
